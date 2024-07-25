@@ -2,7 +2,7 @@
 using usingDI.Tenants;
 
 namespace usingDI.Controllers
-{
+{ 
     public class SampleController : Controller
     {
         private readonly IDatabaseClient databaseClient;
